@@ -25,6 +25,7 @@
     "client:get": "pnpm schema:dl && pnpm schema:tf && pnpm client:g"
   },
   "devDependencies": {
+    "@openapitools/openapi-generator-cli": "^2.5.1",
     "@swc-node/register": "^1.5.1",
     "@types/minimist": "^1.2.2",
     "@types/node": "^17.0.33",
