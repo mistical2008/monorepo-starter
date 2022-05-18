@@ -44,8 +44,6 @@
         "utility-types": "^3.10.0"
     },
     "devDependencies": {
-        "@app/types": "workspace:*",
-        "@lib/api-client": "workspace:*"
         "@babel/core": "^7.17.10",
         "@faker-js/faker": "^6.3.1",
         "@feature-sliced/eslint-config": "^0.1.0-beta.6",
